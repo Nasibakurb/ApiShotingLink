@@ -1,0 +1,12 @@
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\bin\Debug\net7.0\ClickApi.Domain.deps.json
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\bin\Debug\net7.0\ClickApi.Domain.dll
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\bin\Debug\net7.0\ClickApi.Domain.pdb
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\ClickApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\ClickApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\ClickApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\ClickApi.Domain.AssemblyInfo.cs
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\ClickApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\ClickApi.Domain.dll
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\refint\ClickApi.Domain.dll
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\ClickApi.Domain.pdb
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Domain\obj\Debug\net7.0\ref\ClickApi.Domain.dll

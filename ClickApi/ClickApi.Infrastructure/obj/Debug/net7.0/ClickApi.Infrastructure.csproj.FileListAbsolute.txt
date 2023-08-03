@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ClickApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ClickApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ClickApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ClickApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ClickApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\bin\Debug\net7.0\ClickApi.Infrastructure.deps.json
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\bin\Debug\net7.0\ClickApi.Infrastructure.dll
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\bin\Debug\net7.0\ClickApi.Infrastructure.pdb
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\bin\Debug\net7.0\ClickApi.Domain.dll
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\bin\Debug\net7.0\ClickApi.Domain.pdb
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ClickApi.Infrastructure.csproj.CopyComplete
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ClickApi.Infrastructure.dll
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\refint\ClickApi.Infrastructure.dll
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ClickApi.Infrastructure.pdb
+C:\Users\Professional\source\repos\ClickApi\ClickApi.Infrastructure\obj\Debug\net7.0\ref\ClickApi.Infrastructure.dll

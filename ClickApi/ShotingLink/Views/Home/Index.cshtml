@@ -1,0 +1,49 @@
+﻿<div class="text-center">
+    <h1>Кликер</h1>
+
+    <form id="GetShotingLink">
+        <div class="input-group">
+            <input id="inputLink" placeholder="Введите URL" class="form-control" />
+
+            <div class="input-group-btn">
+                <button type="submit" class="btn btn-danger">Сократить</button>
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            <div id="result"></div>
+        </div>
+    </form>
+</div>
+
+<div class="alert-danger" id="message"></div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#GetShotingLink').submit(function (e) {
+            e.preventDefault();
+
+            // Получаем значение введенного URL
+            var originalUrl = $('#inputLink').val();
+
+            // Выполняем Ajax запрос на сервер
+            $.ajax({
+                url: '/api/shotingLink/create', // URL вашего API контроллера
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(originalUrl),
+                success: function (data) {
+                    var shortenedUrl = data.shortenedUrl;
+
+                    // Вставляем результат на страницу
+                    $('#result').text(shortenedUrl);
+                },
+                error: function (xhr, status, error) {
+                    // Обработка ошибки
+                    $('#message').text('Произошла ошибка: ' + xhr.responseText);
+                }
+            });
+        });
+    });
+</script>
